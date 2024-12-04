@@ -1,2 +1,2 @@
 # sketch2image
-A GAN that converts sketches of faces to images of people using GAN made using python pytorch, backend on GO, frontend HTML. Storing results in SQL database
+A GAN that converts sketches to images using GAN made using python tensorflow, backend on Flask, frontend HTML and CSS.
