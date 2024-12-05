@@ -4,7 +4,7 @@ Uses `stabilityai/stable-diffusion-xl-base-1.0` diffusion model from huggingface
 
 
 ![Web Page](https://github.com/user-attachments/assets/b333b97a-02e0-4e53-9285-74c85067e56c)
-
+(I'm quite the artist, I know)
 
 Generated Response:
 ![Generated image](https://github.com/user-attachments/assets/802cf6e4-6432-4936-8abc-f292eeb16ba7)
