@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Sketch to Image Generator</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Sketch to Image Generator</h1>
+        <canvas id="drawingCanvas" width="512" height="512"></canvas>
+        <div id="controls">
+            <button id="undoButton">Undo</button>
+            <button id="clearButton">Clear</button>
+            <button id="generateButton">Generate</button>
+            <button id="saveButton">Save</button>
+        </div>
+        <textarea id="promptBox" placeholder="Enter your prompt here..."></textarea>
+        <div id="results">
+            <img id="generatedImage" alt="Generated Output">
+        </div>
+    </div>
+    <script src="/static/scripts.js"></script>
+</body>
+</html>
